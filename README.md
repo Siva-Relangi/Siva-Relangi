@@ -2,7 +2,7 @@
 
 **Java Full Stack Developer | MERN Stack Developer | AI Enthusiast** with a passion for building scalable web applications, solving challenging problems, and continuously exploring new technologies. I enjoy learning through development, problem-solving, and competitive programming.
 
-<img src="profile-banner.png" alt="Veera Siva Ramaraju Relangi">
+<img src="profile.png" alt="Veera Siva Ramaraju Relangi">
 
 🔭 I’m currently working on<br>
 • Exploring and building applications while learning **AI & Generative AI** technologies.<br>
