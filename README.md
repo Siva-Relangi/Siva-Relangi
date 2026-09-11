@@ -10,8 +10,7 @@
 👯 Looking to collaborate on<br>
 • Full Stack projects with **React, Node.js, Express, MongoDB**.<br>
 • **Java Full Stack** projects using Java, Spring Boot, Angular, and MySQL.<br>
-• Open-source tools for productivity, education, or developer communities.<br>
-• Hackathons or learning-driven initiatives.<br><br>
+
 
 🌱 Currently learning<br>
 • **AI & Generative AI** concepts and technologies.<br>
